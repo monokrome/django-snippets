@@ -7,7 +7,7 @@ setup(name='django-snippets',
       author='Brandon R. Stoner',
       author_email='monokrome@monokro.me',
       url='http://monokro.me/',  # This needs updated once my site is active.
-      packages=['django.contrib.snippets'],
+      packages=['snippets'],
      )
 
 
