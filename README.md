@@ -1,5 +1,6 @@
-django snippets
-author: Brandon R. Stoner <monokrome@monokro.me>
+# django snippets
+#### Brandon R. Stoner <monokrome@monokro.me>
 
-A simple application for storing snippets in django.
+## What is this?
+Django Snippets simple application for storing snippets in django.
 
